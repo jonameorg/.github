@@ -23,6 +23,8 @@ Welcome to the official repository for Whitehead, a revolutionary psychic orthos
 
 ## Installation
 
+[...]
+
 ## Usage
 
 To use Whitehead effectively, please refer to the documentation provided in the [docs](docs/) folder.
@@ -32,3 +34,10 @@ To use Whitehead effectively, please refer to the documentation provided in the 
 We welcome contributions from the community! If you'd like to contribute to the development of Whitehead, please follow our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+[...]
+
