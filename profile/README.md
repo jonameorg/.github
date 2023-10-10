@@ -1,4 +1,4 @@
-# Whitehead - Psychic Orthosis for Communication Disorders
+# Whitehead - Psychic Orthosis Soluction for Communication Disorders
 
 ## Overview
 
